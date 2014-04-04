@@ -8,7 +8,7 @@ import android.content.Context;
 import android.view.Menu;
 import android.view.View;
 import android.widget.ToggleButton;
-
+//Jim Barker
 public class MainActivity extends Activity {
 
     @Override
